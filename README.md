@@ -1,6 +1,6 @@
 ![logo](https://www.bing.com/th/id/OGC.590fafd189b435e714db6c817105c48e?pid=1.7&rurl=https%3a%2f%2fmir-s3-cdn-cf.behance.net%2fproject_modules%2ffs%2f54b6c068097599.5b50bca476b9b.gif&ehk=JEec3iqz45jg%2bstSxcvGhrGLMQaoP4O%2fqiEldqGxRyQ%3d)
 <h1 align="center">Hi 👋, I'm Rajat Yadav</h1>
-<h3 align="center">2nd Year CSE Student</h3>
+<h3 align="center">3rd Year CSE Student</h3>
 <h3 align="center">😊😊👍😉😉</h3>
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="gif" align="right" width=400px /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatya713&label=Profile%20views&color=0e75b6&style=flat" alt="rajatya713" /> </p>
