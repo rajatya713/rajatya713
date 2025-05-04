@@ -27,13 +27,10 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/06ffa0b5-58e5-4bf5-bbd3-288df007f01b" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/e258fc5b-e40a-409a-9ea4-b22bdf706669" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/ec6c4023-5560-46fd-bc1c-0319b936c3a6" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/65e90222-f53c-4a63-8c5c-e489641b70ad" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/3179eee2-eedf-4915-825e-f167821c9496" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/36e28a53-be89-4dc2-b4ff-97bb8b138042" width="100px" height="100px" />
 </div>
